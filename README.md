@@ -1,4 +1,4 @@
-# data_004_SIM_HIRO_SA_ErrorCharac_Prob
+# SIM_HIRO_SA_ERROR_CHARAC_Prob
 Data from snap assembly work in simulation with the HIRO Robot. In particular this package is focusing on the analysis of failure trials, where different trials have been set to include a deviation in 1-3 directions and with different magnitudes. A probabilistic scheme is used to classify the failure type. Location: Guangzhou. Date: 2014.
 
 There are two sets of data that capture failure: exp##_sereis and the FC###_series. The exp series was used for ICRA 2014 and the FC series was used in humanoids. Each folder name has a sequence number followed by the deviation direction and amount. For example, "exp1+x0.0080-z0.005" indicates the 1st experiment, with a deviation of 0.008m in the x-direction and -0.005m in the z-direction. Note: the z-direction is not considered in the experimentation, it is modified to ensure we can still make contact between parts. The deviations we analyize are combinations of the following: delx, dely, delYall. 
@@ -13,6 +13,7 @@ Each folder contains data for: (i) Manipulator data and (ii) RCBHT state estimat
 Angles: Current Joint Angles (7 DoF) Format: time th1 th2 ... th7
 
 CartPos: EndEffector Cartesian Position Format: time x y z r p y
+CorrectedCartPos: corrects some offset that we did not realize in the data collection.
 
 Torques: Wrench data wrt the tool. No gravity compensation. Format: time Fx Fy Fz Mx My Mz
 
