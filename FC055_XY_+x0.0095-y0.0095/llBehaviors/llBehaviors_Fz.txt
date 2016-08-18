@@ -1,5 +1,5 @@
 Iteration     : 1
-CompLabel     : k
+CompLabel     : PL
 averageVal1   : -0.92215
 averageVal2   : -0.92215
 AVG_MAG_VAL   : -0.92215
@@ -18,7 +18,7 @@ t2End         : 0.15000
 tAvgIndex     : 0.07500
 
 Iteration     : 2
-CompLabel     : i
+CompLabel     : CT
 averageVal1   : 1.55770
 averageVal2   : 1.55770
 AVG_MAG_VAL   : 1.55770
@@ -37,7 +37,7 @@ t2End         : 3.82500
 tAvgIndex     : 1.98750
 
 Iteration     : 3
-CompLabel     : a
+CompLabel     : FX
 averageVal1   : 7.45163
 averageVal2   : 7.45163
 AVG_MAG_VAL   : 7.45163
@@ -56,7 +56,7 @@ t2End         : 4.25000
 tAvgIndex     : 4.03750
 
 Iteration     : 4
-CompLabel     : i
+CompLabel     : CT
 averageVal1   : 4.22408
 averageVal2   : 4.22408
 AVG_MAG_VAL   : 4.22408
@@ -75,21 +75,21 @@ t2End         : 4.52500
 tAvgIndex     : 4.38750
 
 Iteration     : 5
-CompLabel     : a
-averageVal1   : 10.52326
-averageVal2   : 10.26460
-AVG_MAG_VAL   : 10.39393
-rmsVal1       : 11.55661
-rmsVal2       : 11.55661
+CompLabel     : FX
+averageVal1   : 10.49205
+averageVal2   : 10.49205
+AVG_MAG_VAL   : 10.49205
+rmsVal1       : 12.21501
+rmsVal2       : 12.21501
 AVG_RMS_Val   : 12.21501
-amplitudeVal1 : 1.12693
+amplitudeVal1 : 2.80214
 amplitudeVal2 : 2.80214
 AVG_AMP_VAL   : 2.80214
-Label 1       : bpos
-Label 2       : bpos
+Label 1       : bneg
+Label 2       : bneg
 t1Start       : 4.52500
-t1End         : 5.67500
-t2Start       : 5.67500
+t1End         : 6.05500
+t2Start       : 4.52500
 t2End         : 6.05500
 tAvgIndex     : 5.29000
 

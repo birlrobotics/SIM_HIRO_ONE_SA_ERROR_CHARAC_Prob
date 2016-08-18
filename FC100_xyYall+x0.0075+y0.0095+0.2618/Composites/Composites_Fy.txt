@@ -25,19 +25,58 @@ t2End         : 3.25000
 tAvgIndex     : 3.23750
 
 Iteration     : 3
-Label         : k
-Average Val   : 2.92759
-RMS Val       : 4.69036
-Amplitude Val : 2.27479
+Label         : i
+Average Val   : 1.86384
+RMS Val       : 3.43420
+Amplitude Val : 0.70008
 Label 1       : spos
-Label 2       : sneg
+Label 2       : spos
 t1Start       : 3.25000
-t1End         : 4.60000
-t2Start       : 4.25000
-t2End         : 4.60000
-tAvgIndex     : 3.92500
+t1End         : 3.75000
+t2Start       : 3.72500
+t2End         : 3.75000
+tAvgIndex     : 3.50000
 
 Iteration     : 4
+Label         : k
+Average Val   : 3.48698
+RMS Val       : 3.94336
+Amplitude Val : 0.17497
+Label 1       : cons
+Label 2       : sneg
+t1Start       : 3.75000
+t1End         : 4.12500
+t2Start       : 3.92500
+t2End         : 4.12500
+tAvgIndex     : 3.93750
+
+Iteration     : 5
+Label         : a
+Average Val   : 1.36625
+RMS Val       : 1.71277
+Amplitude Val : 0.63821
+Label 1       : spos
+Label 2       : sneg
+t1Start       : 4.12500
+t1End         : 4.18550
+t2Start       : 4.18650
+t2End         : 4.25000
+tAvgIndex     : 4.18750
+
+Iteration     : 6
+Label         : k
+Average Val   : 3.73609
+RMS Val       : 4.69036
+Amplitude Val : 2.27479
+Label 1       : bpos
+Label 2       : sneg
+t1Start       : 4.25000
+t1End         : 4.60000
+t2Start       : 4.45000
+t2End         : 4.60000
+tAvgIndex     : 4.42500
+
+Iteration     : 7
 Label         : a
 Average Val   : 2.21176
 RMS Val       : 2.81967
@@ -50,7 +89,7 @@ t2Start       : 4.72400
 t2End         : 4.85000
 tAvgIndex     : 4.72500
 
-Iteration     : 5
+Iteration     : 8
 Label         : a
 Average Val   : 1.50152
 RMS Val       : 4.36924
@@ -63,7 +102,7 @@ t2Start       : 5.92500
 t2End         : 6.22500
 tAvgIndex     : 5.53750
 
-Iteration     : 6
+Iteration     : 9
 Label         : i
 Average Val   : 1.03325
 RMS Val       : 1.77281
@@ -76,7 +115,7 @@ t2Start       : 6.25000
 t2End         : 6.30000
 tAvgIndex     : 6.26250
 
-Iteration     : 7
+Iteration     : 10
 Label         : a
 Average Val   : 1.09372
 RMS Val       : 1.71565

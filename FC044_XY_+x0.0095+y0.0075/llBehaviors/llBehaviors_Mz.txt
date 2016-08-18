@@ -1,5 +1,5 @@
 Iteration     : 1
-CompLabel     : a
+CompLabel     : FX
 averageVal1   : 0.00288
 averageVal2   : 0.00288
 AVG_MAG_VAL   : 0.00288
@@ -18,7 +18,7 @@ t2End         : 3.67500
 tAvgIndex     : 1.83750
 
 Iteration     : 2
-CompLabel     : k
+CompLabel     : PL
 averageVal1   : -0.01596
 averageVal2   : -0.01596
 AVG_MAG_VAL   : -0.01596
@@ -37,7 +37,7 @@ t2End         : 3.70000
 tAvgIndex     : 3.68750
 
 Iteration     : 3
-CompLabel     : pc
+CompLabel     : AL
 averageVal1   : -0.01550
 averageVal2   : -0.01550
 AVG_MAG_VAL   : -0.01550
@@ -56,7 +56,7 @@ t2End         : 3.77500
 tAvgIndex     : 3.73750
 
 Iteration     : 4
-CompLabel     : a
+CompLabel     : FX
 averageVal1   : -0.03399
 averageVal2   : -0.02063
 AVG_MAG_VAL   : -0.02731
@@ -73,80 +73,4 @@ t1End         : 3.80000
 t2Start       : 3.80000
 t2End         : 5.85000
 tAvgIndex     : 4.81250
-
-Iteration     : 1
-CompLabel     : a
-averageVal1   : 0.00288
-averageVal2   : 0.00288
-AVG_MAG_VAL   : 0.00288
-rmsVal1       : 0.00402
-rmsVal2       : 0.00402
-AVG_RMS_Val   : 0.00402
-amplitudeVal1 : 0.00348
-amplitudeVal2 : 0.00348
-AVG_AMP_VAL   : 0.00348
-Label 1       : bneg
-Label 2       : none
-t1Start       : 0.00000
-t1End         : 3.67500
-t2Start       : 1.02500
-t2End         : 3.67500
-tAvgIndex     : 1.83750
-
-Iteration     : 2
-CompLabel     : k
-averageVal1   : -0.01596
-averageVal2   : -0.01596
-AVG_MAG_VAL   : -0.01596
-rmsVal1       : -0.01468
-rmsVal2       : -0.01468
-AVG_RMS_Val   : -0.01468
-amplitudeVal1 : 0.00397
-amplitudeVal2 : 0.00397
-AVG_AMP_VAL   : 0.00397
-Label 1       : spos
-Label 2       : none
-t1Start       : 3.67500
-t1End         : 3.67500
-t2Start       : 3.70000
-t2End         : 3.70000
-tAvgIndex     : 3.68750
-
-Iteration     : 3
-CompLabel     : pc
-averageVal1   : -0.01550
-averageVal2   : 0.00290
-AVG_MAG_VAL   : -0.00630
-rmsVal1       : 0.00419
-rmsVal2       : 0.01525
-AVG_RMS_Val   : 0.01525
-amplitudeVal1 : 0.03239
-amplitudeVal2 : 0.00801
-AVG_AMP_VAL   : 0.03239
-Label 1       : bpos
-Label 2       : bpos
-t1Start       : 3.70000
-t1End         : 3.77500
-t2Start       : 5.00000
-t2End         : 5.15000
-tAvgIndex     : 4.40625
-
-Iteration     : 4
-CompLabel     : a
-averageVal1   : -0.02984
-averageVal2   : -0.02984
-AVG_MAG_VAL   : -0.02984
-rmsVal1       : 0.04446
-rmsVal2       : 0.04446
-AVG_RMS_Val   : 0.04446
-amplitudeVal1 : 0.01504
-amplitudeVal2 : 0.01504
-AVG_AMP_VAL   : 0.01504
-Label 1       : bneg
-Label 2       : bneg
-t1Start       : 5.15000
-t1End         : 5.85000
-t2Start       : 5.15000
-t2End         : 5.85000
-tAvgIndex     : 5.50000
 

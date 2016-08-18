@@ -1,5 +1,5 @@
 Iteration     : 1
-CompLabel     : a
+CompLabel     : FX
 averageVal1   : 0.00311
 averageVal2   : -0.00329
 AVG_MAG_VAL   : 0.00327
@@ -18,7 +18,7 @@ t2End         : 4.45000
 tAvgIndex     : 2.22500
 
 Iteration     : 2
-CompLabel     : pc
+CompLabel     : AL
 averageVal1   : -0.03832
 averageVal2   : -0.03832
 AVG_MAG_VAL   : -0.03832
@@ -37,10 +37,10 @@ t2End         : 4.67500
 tAvgIndex     : 4.56250
 
 Iteration     : 3
-CompLabel     : a
-averageVal1   : -0.01799
-averageVal2   : -0.01799
-AVG_MAG_VAL   : -0.01799
+CompLabel     : FX
+averageVal1   : -0.02141
+averageVal2   : -0.02141
+AVG_MAG_VAL   : -0.02141
 rmsVal1       : 0.06752
 rmsVal2       : 0.06752
 AVG_RMS_Val   : 0.06752
@@ -51,12 +51,12 @@ Label 1       : bneg
 Label 2       : none
 t1Start       : 4.67500
 t1End         : 5.72500
-t2Start       : 5.10000
+t2Start       : 5.32500
 t2End         : 5.72500
 tAvgIndex     : 5.20000
 
 Iteration     : 4
-CompLabel     : pc
+CompLabel     : AL
 averageVal1   : -0.00080
 averageVal2   : -0.00080
 AVG_MAG_VAL   : -0.00080
@@ -75,21 +75,40 @@ t2End         : 6.05000
 tAvgIndex     : 5.88750
 
 Iteration     : 5
-CompLabel     : a
+CompLabel     : FX
 averageVal1   : 0.02496
-averageVal2   : -0.01668
-AVG_MAG_VAL   : -0.00775
+averageVal2   : 0.02496
+AVG_MAG_VAL   : 0.02496
 rmsVal1       : 0.03860
 rmsVal2       : 0.03860
-AVG_RMS_Val   : 0.07176
+AVG_RMS_Val   : 0.03860
 amplitudeVal1 : 0.02639
-amplitudeVal2 : 0.06640
-AVG_AMP_VAL   : 0.09170
-Label 1       : bpos
-Label 2       : bpos
+amplitudeVal2 : 0.02639
+AVG_AMP_VAL   : 0.02639
+Label 1       : bneg
+Label 2       : none
 t1Start       : 6.05000
+t1End         : 6.37500
+t2Start       : 6.17500
+t2End         : 6.37500
+tAvgIndex     : 6.21250
+
+Iteration     : 6
+CompLabel     : AL
+averageVal1   : -0.01416
+averageVal2   : -0.01668
+AVG_MAG_VAL   : -0.01964
+rmsVal1       : 0.02986
+rmsVal2       : 0.02986
+AVG_RMS_Val   : 0.07176
+amplitudeVal1 : 0.02775
+amplitudeVal2 : 0.14617
+AVG_AMP_VAL   : 0.14617
+Label 1       : mneg
+Label 2       : mneg
+t1Start       : 6.37500
 t1End         : 6.80000
 t2Start       : 6.80000
 t2End         : 7.36000
-tAvgIndex     : 6.70500
+tAvgIndex     : 6.86750
 

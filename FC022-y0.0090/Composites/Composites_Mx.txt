@@ -39,44 +39,18 @@ tAvgIndex     : 3.42500
 
 Iteration     : 4
 Label         : k
-Average Val   : -0.11785
-RMS Val       : -0.11717
+Average Val   : -0.15289
+RMS Val       : -0.11070
 Amplitude Val : 0.09645
 Label 1       : cons
 Label 2       : cons
 t1Start       : 3.45000
-t1End         : 3.45000
+t1End         : 4.05000
 t2Start       : 3.47500
-t2End         : 3.47500
-tAvgIndex     : 3.46250
+t2End         : 4.05000
+tAvgIndex     : 3.75000
 
 Iteration     : 5
-Label         : d
-Average Val   : -0.14370
-RMS Val       : -0.11070
-Amplitude Val : 0.03100
-Label 1       : sneg
-Label 2       : sneg
-t1Start       : 3.47500
-t1End         : 3.47500
-t2Start       : 3.60000
-t2End         : 3.60000
-tAvgIndex     : 3.53750
-
-Iteration     : 6
-Label         : k
-Average Val   : -0.20048
-RMS Val       : -0.17404
-Amplitude Val : 0.03850
-Label 1       : spos
-Label 2       : cons
-t1Start       : 3.60000
-t1End         : 4.05000
-t2Start       : 3.90000
-t2End         : 4.05000
-tAvgIndex     : 3.82500
-
-Iteration     : 7
 Label         : a
 Average Val   : -0.20350
 RMS Val       : -0.08607
@@ -89,7 +63,7 @@ t2Start       : 4.15000
 t2End         : 4.27500
 tAvgIndex     : 4.16250
 
-Iteration     : 8
+Iteration     : 6
 Label         : a
 Average Val   : -0.09906
 RMS Val       : -0.06738
@@ -102,7 +76,7 @@ t2Start       : 4.32500
 t2End         : 4.40000
 tAvgIndex     : 4.33750
 
-Iteration     : 9
+Iteration     : 7
 Label         : a
 Average Val   : -0.15565
 RMS Val       : -0.12069
@@ -115,7 +89,7 @@ t2Start       : 4.42500
 t2End         : 4.60000
 tAvgIndex     : 4.50000
 
-Iteration     : 10
+Iteration     : 8
 Label         : k
 Average Val   : -0.27423
 RMS Val       : -0.14530
@@ -128,7 +102,7 @@ t2Start       : 4.72500
 t2End         : 4.75000
 tAvgIndex     : 4.67500
 
-Iteration     : 11
+Iteration     : 9
 Label         : a
 Average Val   : -0.27977
 RMS Val       : -0.15340
@@ -141,7 +115,7 @@ t2Start       : 4.80000
 t2End         : 4.97500
 tAvgIndex     : 4.86250
 
-Iteration     : 12
+Iteration     : 10
 Label         : i
 Average Val   : -0.38650
 RMS Val       : -0.38343
@@ -154,7 +128,7 @@ t2Start       : 5.00000
 t2End         : 5.00000
 tAvgIndex     : 4.98750
 
-Iteration     : 13
+Iteration     : 11
 Label         : a
 Average Val   : -0.35969
 RMS Val       : 0.01921
@@ -167,7 +141,7 @@ t2Start       : 5.30000
 t2End         : 5.60000
 tAvgIndex     : 5.30000
 
-Iteration     : 14
+Iteration     : 12
 Label         : k
 Average Val   : -0.02742
 RMS Val       : 0.16863
@@ -180,7 +154,7 @@ t2Start       : 5.92500
 t2End         : 6.80000
 tAvgIndex     : 6.20000
 
-Iteration     : 15
+Iteration     : 13
 Label         : a
 Average Val   : 0.13549
 RMS Val       : 0.17355

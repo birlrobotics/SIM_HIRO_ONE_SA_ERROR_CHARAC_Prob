@@ -1,5 +1,5 @@
 Iteration     : 1
-CompLabel     : k
+CompLabel     : PL
 averageVal1   : -0.92215
 averageVal2   : -0.92215
 AVG_MAG_VAL   : -0.92215
@@ -18,16 +18,16 @@ t2End         : 0.15000
 tAvgIndex     : 0.07500
 
 Iteration     : 2
-CompLabel     : i
+CompLabel     : CT
 averageVal1   : -0.94054
 averageVal2   : -0.94054
 AVG_MAG_VAL   : -0.94054
 rmsVal1       : 4.33984
 rmsVal2       : 4.33984
 AVG_RMS_Val   : 4.33984
-amplitudeVal1 : 7.58078
-amplitudeVal2 : 7.58078
-AVG_AMP_VAL   : 7.58078
+amplitudeVal1 : 7.58079
+amplitudeVal2 : 7.58079
+AVG_AMP_VAL   : 7.58079
 Label 1       : mneg
 Label 2       : none
 t1Start       : 0.15000
@@ -37,7 +37,7 @@ t2End         : 3.72500
 tAvgIndex     : 1.93750
 
 Iteration     : 3
-CompLabel     : pc
+CompLabel     : AL
 averageVal1   : 6.24679
 averageVal2   : 6.08729
 AVG_MAG_VAL   : 6.16704
@@ -56,45 +56,83 @@ t2End         : 3.77500
 tAvgIndex     : 3.75000
 
 Iteration     : 4
-CompLabel     : i
+CompLabel     : CT
 averageVal1   : 4.34270
-averageVal2   : 4.07789
-AVG_MAG_VAL   : 5.95374
-rmsVal1       : 12.59375
+averageVal2   : 11.31650
+AVG_MAG_VAL   : 7.82960
+rmsVal1       : 8.63852
 rmsVal2       : 12.59375
 AVG_RMS_Val   : 12.59375
 amplitudeVal1 : 5.42856
-amplitudeVal2 : 6.38202
-AVG_AMP_VAL   : 6.38202
-Label 1       : mpos
-Label 2       : mpos
+amplitudeVal2 : 1.73801
+AVG_AMP_VAL   : 5.42856
+Label 1       : mneg
+Label 2       : sneg
 t1Start       : 3.77500
-t1End         : 3.97500
-t2Start       : 3.97500
-t2End         : 4.15000
-tAvgIndex     : 3.96250
+t1End         : 3.92500
+t2Start       : 3.92500
+t2End         : 3.97500
+tAvgIndex     : 3.90000
 
 Iteration     : 5
-CompLabel     : a
-averageVal1   : 8.14689
-averageVal2   : 9.60982
-AVG_MAG_VAL   : 9.97967
+CompLabel     : FX
+averageVal1   : 7.23290
+averageVal2   : 9.63372
+AVG_MAG_VAL   : 9.77520
 rmsVal1       : 8.57536
 rmsVal2       : 8.57536
-AVG_RMS_Val   : 10.91991
-amplitudeVal1 : 1.84811
-amplitudeVal2 : 2.74205
-AVG_AMP_VAL   : 2.74205
+AVG_RMS_Val   : 10.61762
+amplitudeVal1 : 6.43326
+amplitudeVal2 : 0.44371
+AVG_AMP_VAL   : 6.43326
 Label 1       : bpos
 Label 2       : bpos
-t1Start       : 4.15000
+t1Start       : 3.97500
 t1End         : 4.77500
 t2Start       : 4.77500
-t2End         : 6.00000
-tAvgIndex     : 5.07500
+t2End         : 5.05000
+tAvgIndex     : 4.51250
 
 Iteration     : 6
-CompLabel     : pc
+CompLabel     : AL
+averageVal1   : 9.87221
+averageVal2   : 9.87221
+AVG_MAG_VAL   : 9.87221
+rmsVal1       : 10.11369
+rmsVal2       : 10.11369
+AVG_RMS_Val   : 10.11369
+amplitudeVal1 : 0.59878
+amplitudeVal2 : 0.59878
+AVG_AMP_VAL   : 0.59878
+Label 1       : bpos
+Label 2       : none
+t1Start       : 5.05000
+t1End         : 5.19800
+t2Start       : 5.19900
+t2End         : 5.35000
+tAvgIndex     : 5.20000
+
+Iteration     : 7
+CompLabel     : FX
+averageVal1   : 9.43824
+averageVal2   : 9.43824
+AVG_MAG_VAL   : 9.43824
+rmsVal1       : 10.91991
+rmsVal2       : 10.91991
+AVG_RMS_Val   : 10.91991
+amplitudeVal1 : 2.74205
+amplitudeVal2 : 2.74205
+AVG_AMP_VAL   : 2.74205
+Label 1       : bneg
+Label 2       : none
+t1Start       : 5.35000
+t1End         : 6.00000
+t2Start       : 5.95000
+t2End         : 6.00000
+tAvgIndex     : 5.67500
+
+Iteration     : 8
+CompLabel     : AL
 averageVal1   : 8.73945
 averageVal2   : 8.73945
 AVG_MAG_VAL   : 8.73945
@@ -112,8 +150,8 @@ t2Start       : 6.02500
 t2End         : 6.07500
 tAvgIndex     : 6.03750
 
-Iteration     : 7
-CompLabel     : k
+Iteration     : 9
+CompLabel     : PL
 averageVal1   : 9.00206
 averageVal2   : 9.00206
 AVG_MAG_VAL   : 9.00206
@@ -131,8 +169,8 @@ t2Start       : 6.10000
 t2End         : 6.10000
 tAvgIndex     : 6.08750
 
-Iteration     : 8
-CompLabel     : i
+Iteration     : 10
+CompLabel     : CT
 averageVal1   : 5.84584
 averageVal2   : 5.84584
 AVG_MAG_VAL   : 5.84584
@@ -150,8 +188,8 @@ t2Start       : 6.20000
 t2End         : 6.27500
 tAvgIndex     : 6.18750
 
-Iteration     : 9
-CompLabel     : nc
+Iteration     : 11
+CompLabel     : SH
 averageVal1   : 10.47730
 averageVal2   : 10.47730
 AVG_MAG_VAL   : 10.47730

@@ -56,10 +56,10 @@ Average Val   : 10.55752
 RMS Val       : 10.15517
 Amplitude Val : 2.51564
 Label 1       : cons
-Label 2       : sneg
+Label 2       : cons
 t1Start       : 4.60000
-t1End         : 4.92500
-t2Start       : 4.87500
+t1End         : 4.60000
+t2Start       : 4.92500
 t2End         : 4.92500
 tAvgIndex     : 4.76250
 
@@ -117,18 +117,44 @@ tAvgIndex     : 5.58750
 
 Iteration     : 10
 Label         : k
-Average Val   : 10.30252
-RMS Val       : 10.19701
+Average Val   : 11.19971
+RMS Val       : 10.05602
 Amplitude Val : 1.69681
 Label 1       : mpos
 Label 2       : cons
 t1Start       : 5.62500
-t1End         : 6.45000
-t2Start       : 6.27500
-t2End         : 6.45000
-tAvgIndex     : 6.03750
+t1End         : 5.92500
+t2Start       : 5.82500
+t2End         : 5.92500
+tAvgIndex     : 5.77500
 
 Iteration     : 11
+Label         : a
+Average Val   : 8.30106
+RMS Val       : 10.19701
+Amplitude Val : 2.63105
+Label 1       : mneg
+Label 2       : spos
+t1Start       : 5.92500
+t1End         : 6.02500
+t2Start       : 6.02500
+t2End         : 6.17500
+tAvgIndex     : 6.05000
+
+Iteration     : 12
+Label         : k
+Average Val   : 10.56891
+RMS Val       : 9.88268
+Amplitude Val : 1.31656
+Label 1       : cons
+Label 2       : spos
+t1Start       : 6.17500
+t1End         : 6.45000
+t2Start       : 6.30000
+t2End         : 6.45000
+tAvgIndex     : 6.31250
+
+Iteration     : 13
 Label         : a
 Average Val   : 11.26503
 RMS Val       : 10.30706
@@ -141,7 +167,7 @@ t2Start       : 6.47500
 t2End         : 6.60000
 tAvgIndex     : 6.52500
 
-Iteration     : 12
+Iteration     : 14
 Label         : k
 Average Val   : 10.12625
 RMS Val       : 10.17745
@@ -154,7 +180,7 @@ t2Start       : 6.65000
 t2End         : 6.67500
 tAvgIndex     : 6.63750
 
-Iteration     : 13
+Iteration     : 15
 Label         : a
 Average Val   : 12.50643
 RMS Val       : 10.22082
@@ -167,7 +193,7 @@ t2Start       : 6.75000
 t2End         : 6.77500
 tAvgIndex     : 6.72500
 
-Iteration     : 14
+Iteration     : 16
 Label         : k
 Average Val   : 12.52035
 RMS Val       : 10.27520

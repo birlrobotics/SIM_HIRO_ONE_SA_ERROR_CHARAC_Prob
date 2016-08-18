@@ -5,7 +5,7 @@ Min Val   : -0.09349
 Start     : 0.00000
 Finish    : 0.15000
 Gradient  : -0.46727
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 2
 Average   : -0.09673
@@ -41,7 +41,7 @@ Min Val   : -0.17202
 Start     : 3.37500
 Finish    : 3.40000
 Gradient  : 5.55698
-Grad Label: bpos  
+Grad Label: spos  
 
 Iteration : 6
 Average   : 0.16183
@@ -50,7 +50,7 @@ Min Val   : 0.03047
 Start     : 3.40000
 Finish    : 3.47500
 Gradient  : 3.50302
-Grad Label: mpos  
+Grad Label: spos  
 
 Iteration : 7
 Average   : 0.29380
@@ -77,7 +77,7 @@ Min Val   : 0.06981
 Start     : 3.55000
 Finish    : 3.57500
 Gradient  : 5.13933
-Grad Label: bpos  
+Grad Label: spos  
 
 Iteration : 10
 Average   : 0.31683
@@ -86,7 +86,7 @@ Min Val   : 0.25551
 Start     : 3.57500
 Finish    : 3.62500
 Gradient  : 2.45286
-Grad Label: mpos  
+Grad Label: spos  
 
 Iteration : 11
 Average   : 0.39984
@@ -104,7 +104,7 @@ Min Val   : 0.34477
 Start     : 3.65000
 Finish    : 3.67500
 Gradient  : -0.30183
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 13
 Average   : 0.34257
@@ -113,7 +113,7 @@ Min Val   : 0.34114
 Start     : 3.67500
 Finish    : 3.70000
 Gradient  : -0.11457
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 14
 Average   : 0.33836
@@ -122,7 +122,7 @@ Min Val   : 0.33704
 Start     : 3.70000
 Finish    : 3.72500
 Gradient  : -0.10563
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 15
 Average   : 0.33716
@@ -185,7 +185,7 @@ Min Val   : 0.33041
 Start     : 3.87500
 Finish    : 3.90000
 Gradient  : -0.26587
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 22
 Average   : 0.32547
@@ -194,7 +194,7 @@ Min Val   : 0.32352
 Start     : 3.90000
 Finish    : 3.92500
 Gradient  : -0.15625
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 23
 Average   : 0.32304
@@ -212,7 +212,7 @@ Min Val   : 0.31825
 Start     : 3.95000
 Finish    : 3.97500
 Gradient  : 0.16985
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 25
 Average   : 0.32579
@@ -221,7 +221,7 @@ Min Val   : 0.32259
 Start     : 3.97500
 Finish    : 4.00000
 Gradient  : 0.25605
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 26
 Average   : 0.33068
@@ -230,7 +230,7 @@ Min Val   : 0.32933
 Start     : 4.00000
 Finish    : 4.02500
 Gradient  : 0.10822
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 27
 Average   : 0.33457
@@ -239,7 +239,7 @@ Min Val   : 0.33250
 Start     : 4.02500
 Finish    : 4.05000
 Gradient  : -0.16490
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 28
 Average   : 0.32901
@@ -248,7 +248,7 @@ Min Val   : 0.32649
 Start     : 4.05000
 Finish    : 4.07500
 Gradient  : -0.20179
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 29
 Average   : 0.32544
@@ -275,7 +275,7 @@ Min Val   : 0.31732
 Start     : 4.12500
 Finish    : 4.15000
 Gradient  : -0.48985
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 32
 Average   : 0.30942
@@ -284,7 +284,7 @@ Min Val   : 0.30084
 Start     : 4.15000
 Finish    : 4.17500
 Gradient  : -0.68690
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 33
 Average   : 0.29267
@@ -293,7 +293,7 @@ Min Val   : 0.28392
 Start     : 4.17500
 Finish    : 4.20000
 Gradient  : -0.69994
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 34
 Average   : 0.27452
@@ -302,7 +302,7 @@ Min Val   : 0.27102
 Start     : 4.20000
 Finish    : 4.22500
 Gradient  : -0.27967
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 35
 Average   : 0.26849
@@ -311,7 +311,7 @@ Min Val   : 0.25822
 Start     : 4.22500
 Finish    : 4.25000
 Gradient  : 0.82170
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 36
 Average   : 0.28893
@@ -320,7 +320,7 @@ Min Val   : 0.28062
 Start     : 4.25000
 Finish    : 4.27500
 Gradient  : 0.66504
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 37
 Average   : 0.30652
@@ -329,7 +329,7 @@ Min Val   : 0.30144
 Start     : 4.27500
 Finish    : 4.30000
 Gradient  : 0.40599
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 38
 Average   : 0.31569
@@ -338,7 +338,7 @@ Min Val   : 0.31258
 Start     : 4.30000
 Finish    : 4.32500
 Gradient  : 0.24913
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 39
 Average   : 0.32290
@@ -347,7 +347,7 @@ Min Val   : 0.32093
 Start     : 4.32500
 Finish    : 4.35000
 Gradient  : 0.15712
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 40
 Average   : 0.32671
@@ -356,7 +356,7 @@ Min Val   : 0.31800
 Start     : 4.35000
 Finish    : 4.37500
 Gradient  : -0.69701
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 41
 Average   : 0.28028
@@ -383,7 +383,7 @@ Min Val   : 0.20606
 Start     : 4.45000
 Finish    : 4.47500
 Gradient  : -0.85936
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 44
 Average   : 0.19527
@@ -401,7 +401,7 @@ Min Val   : 0.21239
 Start     : 4.50000
 Finish    : 4.52500
 Gradient  : 0.92166
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 46
 Average   : 0.24501
@@ -410,7 +410,7 @@ Min Val   : 0.21425
 Start     : 4.52500
 Finish    : 4.55000
 Gradient  : 2.46082
-Grad Label: mpos  
+Grad Label: spos  
 
 Iteration : 47
 Average   : 0.30704
@@ -428,7 +428,7 @@ Min Val   : 0.35958
 Start     : 4.57500
 Finish    : 4.60000
 Gradient  : -0.32283
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 49
 Average   : 0.31762
@@ -437,7 +437,7 @@ Min Val   : 0.25543
 Start     : 4.60000
 Finish    : 4.65000
 Gradient  : -2.48785
-Grad Label: mneg  
+Grad Label: sneg  
 
 Iteration : 50
 Average   : 0.23023
@@ -446,7 +446,7 @@ Min Val   : 0.19585
 Start     : 4.65000
 Finish    : 4.67500
 Gradient  : 2.75018
-Grad Label: mpos  
+Grad Label: spos  
 
 Iteration : 51
 Average   : 0.29735
@@ -455,7 +455,7 @@ Min Val   : 0.29392
 Start     : 4.67500
 Finish    : 4.70000
 Gradient  : -0.27397
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 52
 Average   : 0.26905
@@ -473,7 +473,7 @@ Min Val   : 0.22414
 Start     : 4.75000
 Finish    : 4.77500
 Gradient  : 0.88063
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 54
 Average   : 0.25581
@@ -482,7 +482,7 @@ Min Val   : 0.24587
 Start     : 4.77500
 Finish    : 4.80000
 Gradient  : 0.79563
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 55
 Average   : 0.27798
@@ -491,7 +491,7 @@ Min Val   : 0.26629
 Start     : 4.80000
 Finish    : 4.82500
 Gradient  : 0.93480
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 56
 Average   : 0.30050
@@ -500,7 +500,7 @@ Min Val   : 0.29196
 Start     : 4.82500
 Finish    : 4.85000
 Gradient  : 0.68351
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 57
 Average   : 0.31876
@@ -509,7 +509,7 @@ Min Val   : 0.31426
 Start     : 4.85000
 Finish    : 4.87500
 Gradient  : 0.35949
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 58
 Average   : 0.32664
@@ -527,7 +527,7 @@ Min Val   : 0.32299
 Start     : 4.90000
 Finish    : 4.92500
 Gradient  : -0.43503
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 60
 Average   : 0.31766
@@ -545,7 +545,7 @@ Min Val   : 0.15455
 Start     : 4.95000
 Finish    : 5.00000
 Gradient  : -2.90773
-Grad Label: mneg  
+Grad Label: sneg  
 
 Iteration : 62
 Average   : 0.15582
@@ -563,7 +563,7 @@ Min Val   : 0.21117
 Start     : 5.05000
 Finish    : 5.07500
 Gradient  : 0.39455
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 64
 Average   : 0.22606
@@ -581,7 +581,7 @@ Min Val   : 0.22322
 Start     : 5.10000
 Finish    : 5.12500
 Gradient  : -0.21738
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 66
 Average   : 0.21803
@@ -590,7 +590,7 @@ Min Val   : 0.21543
 Start     : 5.12500
 Finish    : 5.15000
 Gradient  : 0.20822
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 67
 Average   : 0.22591
@@ -599,7 +599,7 @@ Min Val   : 0.21878
 Start     : 5.15000
 Finish    : 5.17500
 Gradient  : 0.57047
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 68
 Average   : 0.23981
@@ -608,7 +608,7 @@ Min Val   : 0.23532
 Start     : 5.17500
 Finish    : 5.20000
 Gradient  : 0.35968
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 69
 Average   : 0.25431
@@ -617,7 +617,7 @@ Min Val   : 0.24478
 Start     : 5.20000
 Finish    : 5.25000
 Gradient  : 0.38129
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 70
 Average   : 0.26806
@@ -626,7 +626,7 @@ Min Val   : 0.26664
 Start     : 5.25000
 Finish    : 5.27500
 Gradient  : 0.11329
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 71
 Average   : 0.26983
@@ -635,7 +635,7 @@ Min Val   : 0.26770
 Start     : 5.27500
 Finish    : 5.30000
 Gradient  : 0.17022
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 72
 Average   : 0.27506
@@ -680,7 +680,7 @@ Min Val   : 0.26874
 Start     : 5.40000
 Finish    : 5.42500
 Gradient  : -0.21097
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 77
 Average   : 0.26475
@@ -689,7 +689,7 @@ Min Val   : 0.26271
 Start     : 5.42500
 Finish    : 5.45000
 Gradient  : -0.16339
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 78
 Average   : 0.24305
@@ -698,7 +698,7 @@ Min Val   : 0.22323
 Start     : 5.45000
 Finish    : 5.55000
 Gradient  : -0.39636
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 79
 Average   : 0.22100
@@ -707,7 +707,7 @@ Min Val   : 0.21897
 Start     : 5.55000
 Finish    : 5.57500
 Gradient  : 0.16199
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 80
 Average   : 0.26387
@@ -716,7 +716,7 @@ Min Val   : 0.23138
 Start     : 5.57500
 Finish    : 5.72500
 Gradient  : 0.43314
-Grad Label: spos  
+Grad Label: cons  
 
 Iteration : 81
 Average   : 0.29133
@@ -743,7 +743,7 @@ Min Val   : 0.27418
 Start     : 5.90000
 Finish    : 5.95000
 Gradient  : -0.35610
-Grad Label: sneg  
+Grad Label: cons  
 
 Iteration : 84
 Average   : 0.26727
@@ -752,7 +752,7 @@ Min Val   : 0.06513
 Start     : 5.95000
 Finish    : 5.97500
 Gradient  : -16.17104
-Grad Label: nimp  
+Grad Label: sneg  
 
 Iteration : 85
 Average   : -0.81722
@@ -761,7 +761,7 @@ Min Val   : -1.78681
 Start     : 5.97500
 Finish    : 6.02500
 Gradient  : -38.78382
-Grad Label: nimp  
+Grad Label: mneg  
 
 Iteration : 86
 Average   : -2.05364
@@ -770,5 +770,5 @@ Min Val   : -2.15067
 Start     : 6.02500
 Finish    : 6.05000
 Gradient  : 7.76285
-Grad Label: pimp  
+Grad Label: spos  
 

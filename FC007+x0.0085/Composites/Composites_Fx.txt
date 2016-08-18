@@ -15,7 +15,7 @@ Iteration     : 2
 Label         : k
 Average Val   : 2.13908
 RMS Val       : 2.21613
-Amplitude Val : 5.12499
+Amplitude Val : 2.32200
 Label 1       : cons
 Label 2       : cons
 t1Start       : 0.30000
@@ -25,11 +25,11 @@ t2End         : 3.67500
 tAvgIndex     : 1.98750
 
 Iteration     : 3
-Label         : d
+Label         : i
 Average Val   : 1.71223
 RMS Val       : 4.58552
 Amplitude Val : 8.10072
-Label 1       : bneg
+Label 1       : spos
 Label 2       : sneg
 t1Start       : 3.67500
 t1End         : 4.37500
@@ -155,43 +155,43 @@ t2End         : 6.57500
 tAvgIndex     : 6.45000
 
 Iteration     : 13
-Label         : d
-Average Val   : -1.30581
-RMS Val       : -1.26638
-Amplitude Val : 0.09518
+Label         : k
+Average Val   : -1.34241
+RMS Val       : -1.25007
+Amplitude Val : 1.14603
 Label 1       : sneg
-Label 2       : sneg
+Label 2       : spos
 t1Start       : 6.57500
-t1End         : 6.57500
+t1End         : 6.62500
 t2Start       : 6.60000
-t2End         : 6.60000
-tAvgIndex     : 6.58750
+t2End         : 6.62500
+tAvgIndex     : 6.60000
 
 Iteration     : 14
 Label         : a
-Average Val   : -1.26667
+Average Val   : -1.67798
 RMS Val       : -0.43518
-Amplitude Val : 1.10434
-Label 1       : spos
-Label 2       : mpos
-t1Start       : 6.60000
-t1End         : 6.92500
-t2Start       : 6.90000
-t2End         : 6.92500
+Amplitude Val : 0.44708
+Label 1       : sneg
+Label 2       : spos
+t1Start       : 6.62500
+t1End         : 6.82500
+t2Start       : 6.82500
+t2End         : 6.90000
 tAvgIndex     : 6.76250
 
 Iteration     : 15
 Label         : k
-Average Val   : -0.59219
+Average Val   : -0.83335
 RMS Val       : 0.03689
-Amplitude Val : 0.62220
-Label 1       : sneg
+Amplitude Val : 1.10434
+Label 1       : mpos
 Label 2       : sneg
-t1Start       : 6.92500
+t1Start       : 6.90000
 t1End         : 7.22500
-t2Start       : 7.00000
+t2Start       : 6.92500
 t2End         : 7.22500
-tAvgIndex     : 7.07500
+tAvgIndex     : 7.06250
 
 Iteration     : 16
 Label         : a

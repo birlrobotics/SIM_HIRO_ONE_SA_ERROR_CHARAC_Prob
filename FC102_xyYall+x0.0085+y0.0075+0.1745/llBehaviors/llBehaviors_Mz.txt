@@ -1,38 +1,152 @@
 Iteration     : 1
-CompLabel     : a
+CompLabel     : FX
 averageVal1   : 0.00010
-averageVal2   : -0.00527
-AVG_MAG_VAL   : -0.02765
+averageVal2   : 0.00010
+AVG_MAG_VAL   : 0.00010
 rmsVal1       : 0.00402
 rmsVal2       : 0.00402
-AVG_RMS_Val   : 0.32901
+AVG_RMS_Val   : 0.00402
 amplitudeVal1 : 0.09297
-amplitudeVal2 : 0.16315
-AVG_AMP_VAL   : 0.18180
-Label 1       : bpos
-Label 2       : bpos
+amplitudeVal2 : 0.09297
+AVG_AMP_VAL   : 0.09297
+Label 1       : bneg
+Label 2       : none
 t1Start       : 0.00000
-t1End         : 5.85000
-t2Start       : 5.85000
-t2End         : 6.46000
-tAvgIndex     : 3.23000
+t1End         : 0.00000
+t2Start       : 3.67500
+t2End         : 3.67500
+tAvgIndex     : 1.83750
 
-Iteration     : 1
-CompLabel     : a
-averageVal1   : 0.00010
-averageVal2   : -0.00527
-AVG_MAG_VAL   : -0.02765
-rmsVal1       : 0.00402
-rmsVal2       : 0.00402
-AVG_RMS_Val   : 0.32901
-amplitudeVal1 : 0.09297
-amplitudeVal2 : 0.16315
-AVG_AMP_VAL   : 0.18180
+Iteration     : 2
+CompLabel     : AL
+averageVal1   : -0.05009
+averageVal2   : -0.05009
+AVG_MAG_VAL   : -0.05009
+rmsVal1       : -0.01083
+rmsVal2       : -0.01083
+AVG_RMS_Val   : -0.01083
+amplitudeVal1 : 0.07812
+amplitudeVal2 : 0.07812
+AVG_AMP_VAL   : 0.07812
+Label 1       : bpos
+Label 2       : none
+t1Start       : 3.67500
+t1End         : 3.72500
+t2Start       : 3.72500
+t2End         : 3.85000
+tAvgIndex     : 3.76250
+
+Iteration     : 3
+CompLabel     : PL
+averageVal1   : -0.00859
+averageVal2   : -0.00859
+AVG_MAG_VAL   : -0.00859
+rmsVal1       : 0.00443
+rmsVal2       : 0.00443
+AVG_RMS_Val   : 0.00443
+amplitudeVal1 : 0.13677
+amplitudeVal2 : 0.13677
+AVG_AMP_VAL   : 0.13677
+Label 1       : spos
+Label 2       : none
+t1Start       : 3.85000
+t1End         : 3.85000
+t2Start       : 3.90000
+t2End         : 3.90000
+tAvgIndex     : 3.87500
+
+Iteration     : 4
+CompLabel     : FX
+averageVal1   : 0.04738
+averageVal2   : 0.08177
+AVG_MAG_VAL   : 0.05960
+rmsVal1       : 0.11441
+rmsVal2       : 0.11441
+AVG_RMS_Val   : 0.17073
+amplitudeVal1 : 0.14710
+amplitudeVal2 : 0.14404
+AVG_AMP_VAL   : 0.14710
 Label 1       : bpos
 Label 2       : bpos
-t1Start       : 0.00000
-t1End         : 5.85000
+t1Start       : 3.90000
+t1End         : 4.60000
+t2Start       : 4.60000
+t2End         : 4.85000
+tAvgIndex     : 4.37500
+
+Iteration     : 5
+CompLabel     : SH
+averageVal1   : 0.16906
+averageVal2   : -0.18925
+AVG_MAG_VAL   : -0.01009
+rmsVal1       : 0.17859
+rmsVal2       : -0.12587
+AVG_RMS_Val   : 0.17859
+amplitudeVal1 : 0.00113
+amplitudeVal2 : 0.02717
+AVG_AMP_VAL   : 0.02717
+Label 1       : bpos
+Label 2       : bpos
+t1Start       : 4.85000
+t1End         : 4.90000
+t2Start       : 5.40000
+t2End         : 5.45000
+tAvgIndex     : 5.15000
+
+Iteration     : 6
+CompLabel     : FX
+averageVal1   : -0.13977
+averageVal2   : -0.13977
+AVG_MAG_VAL   : -0.13977
+rmsVal1       : 0.00358
+rmsVal2       : 0.00358
+AVG_RMS_Val   : 0.00358
+amplitudeVal1 : 0.24126
+amplitudeVal2 : 0.24126
+AVG_AMP_VAL   : 0.24126
+Label 1       : bneg
+Label 2       : none
+t1Start       : 5.45000
+t1End         : 5.77500
+t2Start       : 5.70000
+t2End         : 5.77500
+tAvgIndex     : 5.61250
+
+Iteration     : 7
+CompLabel     : AL
+averageVal1   : -0.07517
+averageVal2   : -0.07517
+AVG_MAG_VAL   : -0.07517
+rmsVal1       : -0.06176
+rmsVal2       : -0.06176
+AVG_RMS_Val   : -0.06176
+amplitudeVal1 : 0.01556
+amplitudeVal2 : 0.01556
+AVG_AMP_VAL   : 0.01556
+Label 1       : bpos
+Label 2       : none
+t1Start       : 5.77500
+t1End         : 5.80000
+t2Start       : 5.80000
+t2End         : 5.85000
+tAvgIndex     : 5.81250
+
+Iteration     : 8
+CompLabel     : FX
+averageVal1   : -0.00527
+averageVal2   : -0.00527
+AVG_MAG_VAL   : -0.00527
+rmsVal1       : 0.10478
+rmsVal2       : 0.10478
+AVG_RMS_Val   : 0.10478
+amplitudeVal1 : 0.16315
+amplitudeVal2 : 0.16315
+AVG_AMP_VAL   : 0.16315
+Label 1       : bneg
+Label 2       : bneg
+t1Start       : 5.85000
+t1End         : 6.46000
 t2Start       : 5.85000
 t2End         : 6.46000
-tAvgIndex     : 3.23000
+tAvgIndex     : 6.15500
 

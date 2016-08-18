@@ -1,14 +1,14 @@
 Iteration     : 1
-CompLabel     : a
+CompLabel     : FX
 averageVal1   : 0.00093
 averageVal2   : 0.00093
 AVG_MAG_VAL   : 0.00093
 rmsVal1       : 0.00222
 rmsVal2       : 0.00222
 AVG_RMS_Val   : 0.00222
-amplitudeVal1 : 0.11076
-amplitudeVal2 : 0.11076
-AVG_AMP_VAL   : 0.11076
+amplitudeVal1 : 0.15929
+amplitudeVal2 : 0.15929
+AVG_AMP_VAL   : 0.15929
 Label 1       : bneg
 Label 2       : none
 t1Start       : 0.00000
@@ -18,26 +18,26 @@ t2End         : 3.22500
 tAvgIndex     : 1.61250
 
 Iteration     : 2
-CompLabel     : pc
-averageVal1   : 0.06996
-averageVal2   : -0.06283
-AVG_MAG_VAL   : 0.00357
-rmsVal1       : 0.11039
-rmsVal2       : 0.11039
+CompLabel     : PL
+averageVal1   : -0.06694
+averageVal2   : -0.06694
+AVG_MAG_VAL   : -0.06694
+rmsVal1       : 0.13368
+rmsVal2       : 0.13368
 AVG_RMS_Val   : 0.13368
-amplitudeVal1 : 0.15929
+amplitudeVal1 : 0.47368
 amplitudeVal2 : 0.47368
 AVG_AMP_VAL   : 0.47368
-Label 1       : mneg
-Label 2       : mneg
+Label 1       : spos
+Label 2       : none
 t1Start       : 3.22500
-t1End         : 3.27500
-t2Start       : 3.27500
+t1End         : 3.75000
+t2Start       : 3.67500
 t2End         : 3.75000
 tAvgIndex     : 3.48750
 
 Iteration     : 3
-CompLabel     : a
+CompLabel     : FX
 averageVal1   : -0.31145
 averageVal2   : -0.04716
 AVG_MAG_VAL   : -0.18221
@@ -56,7 +56,7 @@ t2End         : 4.32500
 tAvgIndex     : 4.03750
 
 Iteration     : 4
-CompLabel     : pc
+CompLabel     : AL
 averageVal1   : -0.09210
 averageVal2   : -0.09210
 AVG_MAG_VAL   : -0.09210
@@ -75,7 +75,7 @@ t2End         : 4.45000
 tAvgIndex     : 4.38750
 
 Iteration     : 5
-CompLabel     : a
+CompLabel     : FX
 averageVal1   : -0.32491
 averageVal2   : -0.32491
 AVG_MAG_VAL   : -0.32491
@@ -94,7 +94,7 @@ t2End         : 5.22500
 tAvgIndex     : 4.83750
 
 Iteration     : 6
-CompLabel     : pc
+CompLabel     : AL
 averageVal1   : 0.11480
 averageVal2   : 0.11480
 AVG_MAG_VAL   : 0.11480
@@ -113,7 +113,7 @@ t2End         : 5.50000
 tAvgIndex     : 5.36250
 
 Iteration     : 7
-CompLabel     : a
+CompLabel     : FX
 averageVal1   : -0.14439
 averageVal2   : -0.14439
 AVG_MAG_VAL   : -0.14439
@@ -132,7 +132,7 @@ t2End         : 5.52500
 tAvgIndex     : 5.51250
 
 Iteration     : 8
-CompLabel     : pc
+CompLabel     : AL
 averageVal1   : -0.13340
 averageVal2   : -0.03296
 AVG_MAG_VAL   : -0.06012
@@ -151,7 +151,7 @@ t2End         : 6.02500
 tAvgIndex     : 5.77500
 
 Iteration     : 9
-CompLabel     : k
+CompLabel     : PL
 averageVal1   : 0.00556
 averageVal2   : 0.00556
 AVG_MAG_VAL   : 0.00556

@@ -1,5 +1,5 @@
 Iteration     : 1
-CompLabel     : d
+CompLabel     : PS
 averageVal1   : 1.21616
 averageVal2   : 1.21616
 AVG_MAG_VAL   : 1.21616
@@ -18,7 +18,7 @@ t2End         : 0.15000
 tAvgIndex     : 0.07500
 
 Iteration     : 2
-CompLabel     : i
+CompLabel     : CT
 averageVal1   : 1.40733
 averageVal2   : 1.40733
 AVG_MAG_VAL   : 1.40733
@@ -37,8 +37,8 @@ t2End         : 3.32500
 tAvgIndex     : 1.73750
 
 Iteration     : 3
-CompLabel     : pc
-averageVal1   : -2.64796
+CompLabel     : AL
+averageVal1   : -2.64795
 averageVal2   : -2.69894
 AVG_MAG_VAL   : -2.67345
 rmsVal1       : -2.34672
@@ -56,7 +56,7 @@ t2End         : 3.40000
 tAvgIndex     : 3.36250
 
 Iteration     : 4
-CompLabel     : k
+CompLabel     : PL
 averageVal1   : -1.20917
 averageVal2   : -1.20917
 AVG_MAG_VAL   : -1.20917
@@ -75,7 +75,7 @@ t2End         : 3.42500
 tAvgIndex     : 3.41250
 
 Iteration     : 5
-CompLabel     : pc
+CompLabel     : AL
 averageVal1   : -3.32641
 averageVal2   : -0.69084
 AVG_MAG_VAL   : -1.54593
@@ -94,7 +94,7 @@ t2End         : 4.42500
 tAvgIndex     : 3.92500
 
 Iteration     : 6
-CompLabel     : a
+CompLabel     : FX
 averageVal1   : -1.62663
 averageVal2   : -1.62663
 AVG_MAG_VAL   : -1.62663
@@ -113,7 +113,7 @@ t2End         : 4.47500
 tAvgIndex     : 4.45000
 
 Iteration     : 7
-CompLabel     : pc
+CompLabel     : AL
 averageVal1   : -0.44448
 averageVal2   : -1.21210
 AVG_MAG_VAL   : -0.82829
@@ -132,7 +132,7 @@ t2End         : 4.95000
 tAvgIndex     : 4.71250
 
 Iteration     : 8
-CompLabel     : a
+CompLabel     : FX
 averageVal1   : -3.18055
 averageVal2   : -1.71126
 AVG_MAG_VAL   : -2.26527
@@ -151,7 +151,7 @@ t2End         : 6.12500
 tAvgIndex     : 5.53750
 
 Iteration     : 9
-CompLabel     : pc
+CompLabel     : AL
 averageVal1   : -2.07081
 averageVal2   : -2.07081
 AVG_MAG_VAL   : -2.07081
@@ -170,7 +170,7 @@ t2End         : 6.17500
 tAvgIndex     : 6.15000
 
 Iteration     : 10
-CompLabel     : d
+CompLabel     : PS
 averageVal1   : -1.85624
 averageVal2   : -1.85624
 AVG_MAG_VAL   : -1.85624

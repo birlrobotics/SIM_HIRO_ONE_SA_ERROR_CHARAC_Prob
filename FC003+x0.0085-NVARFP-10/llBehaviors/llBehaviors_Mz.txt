@@ -1,30 +1,30 @@
 Iteration     : 1
-CompLabel     : a
-averageVal1   : 0.00386
-averageVal2   : 0.00862
-AVG_MAG_VAL   : 0.00684
-rmsVal1       : 0.00386
-rmsVal2       : 0.00862
-AVG_RMS_Val   : 0.00667
-amplitudeVal1 : 0.00327
+CompLabel     : FX
+averageVal1   : 0.00647
+averageVal2   : 0.00647
+AVG_MAG_VAL   : 0.00647
+rmsVal1       : 0.01747
+rmsVal2       : 0.01747
+AVG_RMS_Val   : 0.01747
+amplitudeVal1 : 0.03027
 amplitudeVal2 : 0.03027
-AVG_AMP_VAL   : 0.02180
-Label 1       : bpos
-Label 2       : bpos
+AVG_AMP_VAL   : 0.03027
+Label 1       : bneg
+Label 2       : none
 t1Start       : 0.00000
-t1End         : 5.00000
+t1End         : 5.05000
 t2Start       : 5.00000
 t2End         : 5.05000
 tAvgIndex     : 2.52500
 
 Iteration     : 2
-CompLabel     : pc
+CompLabel     : AL
 averageVal1   : -0.01196
 averageVal2   : -0.01196
 AVG_MAG_VAL   : -0.01196
-rmsVal1       : -0.01196
-rmsVal2       : -0.01196
-AVG_RMS_Val   : -0.01196
+rmsVal1       : -0.00412
+rmsVal2       : -0.00412
+AVG_RMS_Val   : -0.00412
 amplitudeVal1 : 0.00148
 amplitudeVal2 : 0.00148
 AVG_AMP_VAL   : 0.00148
@@ -37,89 +37,32 @@ t2End         : 5.15000
 tAvgIndex     : 5.10000
 
 Iteration     : 3
-CompLabel     : a
-averageVal1   : 0.00117
-averageVal2   : 0.00335
-AVG_MAG_VAL   : 0.00226
-rmsVal1       : 0.00117
-rmsVal2       : 0.00335
-AVG_RMS_Val   : 0.00226
+CompLabel     : FX
+averageVal1   : 0.00123
+averageVal2   : 0.00123
+AVG_MAG_VAL   : 0.00123
+rmsVal1       : 0.05109
+rmsVal2       : 0.05109
+AVG_RMS_Val   : 0.05109
 amplitudeVal1 : 0.01616
-amplitudeVal2 : 0.01333
-AVG_AMP_VAL   : 0.01474
-Label 1       : bpos
-Label 2       : bpos
+amplitudeVal2 : 0.01616
+AVG_AMP_VAL   : 0.01616
+Label 1       : bneg
+Label 2       : none
 t1Start       : 5.15000
-t1End         : 5.30000
-t2Start       : 5.30000
-t2End         : 5.50000
-tAvgIndex     : 5.32500
+t1End         : 5.77500
+t2Start       : 5.57500
+t2End         : 5.77500
+tAvgIndex     : 5.46250
 
 Iteration     : 4
-CompLabel     : a
-averageVal1   : 0.00401
-averageVal2   : -0.00607
-AVG_MAG_VAL   : -0.00103
-rmsVal1       : 0.00401
-rmsVal2       : -0.00607
-AVG_RMS_Val   : -0.00103
-amplitudeVal1 : 0.01873
-amplitudeVal2 : 0.01595
-AVG_AMP_VAL   : 0.01734
-Label 1       : bpos
-Label 2       : bpos
-t1Start       : 5.50000
-t1End         : 5.55000
-t2Start       : 5.55000
-t2End         : 5.57500
-tAvgIndex     : 5.53750
-
-Iteration     : 5
-CompLabel     : pc
-averageVal1   : -0.00475
-averageVal2   : 0.01969
-AVG_MAG_VAL   : -0.00625
-rmsVal1       : -0.00475
-rmsVal2       : 0.01969
-AVG_RMS_Val   : 0.01226
-amplitudeVal1 : 0.02645
-amplitudeVal2 : 0.02398
-AVG_AMP_VAL   : 0.03772
-Label 1       : mneg
-Label 2       : mneg
-t1Start       : 5.57500
-t1End         : 5.62500
-t2Start       : 5.62500
-t2End         : 5.70000
-tAvgIndex     : 5.63750
-
-Iteration     : 6
-CompLabel     : d
-averageVal1   : 0.03203
-averageVal2   : 0.03906
-AVG_MAG_VAL   : 0.03554
-rmsVal1       : 0.03203
-rmsVal2       : 0.03906
-AVG_RMS_Val   : 0.02526
-amplitudeVal1 : 0.02253
-amplitudeVal2 : 0.12904
-AVG_AMP_VAL   : 0.07578
-Label 1       : mpos
-Label 2       : mpos
-t1Start       : 5.70000
-t1End         : 5.75000
-t2Start       : 5.75000
-t2End         : 5.77500
-tAvgIndex     : 5.74375
-
-Iteration     : 7
-CompLabel     : pc
+CompLabel     : AL
 averageVal1   : 0.07538
 averageVal2   : 0.07538
 AVG_MAG_VAL   : 0.07538
-rmsVal1       : 0.07538
-rmsVal2       : 0.07538
-AVG_RMS_Val   : 0.07538
+rmsVal1       : 0.15607
+rmsVal2       : 0.15607
+AVG_RMS_Val   : 0.15607
 amplitudeVal1 : 0.20701
 amplitudeVal2 : 0.20701
 AVG_AMP_VAL   : 0.20701
@@ -131,14 +74,14 @@ t2Start       : 5.87500
 t2End         : 6.02500
 tAvgIndex     : 5.90000
 
-Iteration     : 8
-CompLabel     : d
+Iteration     : 5
+CompLabel     : PS
 averageVal1   : -0.03453
 averageVal2   : -0.03453
 AVG_MAG_VAL   : -0.03453
-rmsVal1       : 0.03453
-rmsVal2       : 0.03453
-AVG_RMS_Val   : 0.02441
+rmsVal1       : -0.03100
+rmsVal2       : -0.03100
+AVG_RMS_Val   : -0.03100
 amplitudeVal1 : 0.00705
 amplitudeVal2 : 0.00705
 AVG_AMP_VAL   : 0.00705

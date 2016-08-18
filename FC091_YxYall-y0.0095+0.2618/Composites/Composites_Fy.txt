@@ -90,80 +90,28 @@ t2End         : 5.45000
 tAvgIndex     : 5.18750
 
 Iteration     : 8
-Label         : k
-Average Val   : 0.62656
-RMS Val       : 0.85104
-Amplitude Val : 0.11046
+Label         : d
+Average Val   : 0.64503
+RMS Val       : 0.97465
+Amplitude Val : 0.16666
 Label 1       : sneg
-Label 2       : mpos
+Label 2       : sneg
 t1Start       : 5.45000
-t1End         : 6.80000
-t2Start       : 6.45000
-t2End         : 6.80000
-tAvgIndex     : 6.12500
+t1End         : 7.37500
+t2Start       : 7.22500
+t2End         : 7.37500
+tAvgIndex     : 6.41250
 
 Iteration     : 9
 Label         : a
-Average Val   : 0.58625
-RMS Val       : 0.97465
-Amplitude Val : 0.72936
-Label 1       : cons
-Label 2       : spos
-t1Start       : 6.80000
-t1End         : 7.15000
-t2Start       : 7.10000
-t2End         : 7.15000
-tAvgIndex     : 6.97500
-
-Iteration     : 10
-Label         : k
-Average Val   : 0.62376
-RMS Val       : 0.62591
-Amplitude Val : 0.19686
-Label 1       : cons
-Label 2       : cons
-t1Start       : 7.15000
-t1End         : 7.15000
-t2Start       : 7.22500
-t2End         : 7.22500
-tAvgIndex     : 7.18750
-
-Iteration     : 11
-Label         : a
-Average Val   : 0.67397
-RMS Val       : 0.84479
-Amplitude Val : 0.36594
-Label 1       : spos
-Label 2       : sneg
-t1Start       : 7.22500
-t1End         : 7.25000
-t2Start       : 7.25000
-t2End         : 7.37500
-tAvgIndex     : 7.30000
-
-Iteration     : 12
-Label         : i
-Average Val   : 0.65414
-RMS Val       : 0.87785
-Amplitude Val : 1.84186
+Average Val   : 0.20990
+RMS Val       : 1.23888
+Amplitude Val : 0.91403
 Label 1       : spos
 Label 2       : spos
 t1Start       : 7.37500
-t1End         : 7.37500
+t1End         : 7.40000
 t2Start       : 7.40000
-t2End         : 7.40000
-tAvgIndex     : 7.38750
-
-Iteration     : 13
-Label         : a
-Average Val   : -0.23433
-RMS Val       : 1.23888
-Amplitude Val : 0.91403
-Label 1       : sneg
-Label 2       : spos
-t1Start       : 7.40000
-t1End         : 7.60000
-t2Start       : 7.60000
 t2End         : 7.80500
-tAvgIndex     : 7.60250
+tAvgIndex     : 7.59000
 

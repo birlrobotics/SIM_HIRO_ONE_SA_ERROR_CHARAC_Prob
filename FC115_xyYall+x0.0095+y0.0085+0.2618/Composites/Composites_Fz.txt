@@ -15,7 +15,7 @@ Iteration     : 2
 Label         : pc
 Average Val   : -0.94054
 RMS Val       : 4.33984
-Amplitude Val : 7.58078
+Amplitude Val : 7.58079
 Label 1       : cons
 Label 2       : pimp
 t1Start       : 0.15000
@@ -77,32 +77,19 @@ t2End         : 3.97500
 tAvgIndex     : 3.95000
 
 Iteration     : 7
-Label         : pc
-Average Val   : 4.07789
-RMS Val       : 7.61160
-Amplitude Val : 6.38202
-Label 1       : mneg
-Label 2       : pimp
-t1Start       : 3.97500
-t1End         : 4.12500
-t2Start       : 4.12500
-t2End         : 4.15000
-tAvgIndex     : 4.06250
-
-Iteration     : 8
 Label         : k
-Average Val   : 8.14689
+Average Val   : 7.23290
 RMS Val       : 8.57536
-Amplitude Val : 1.84811
-Label 1       : mpos
+Amplitude Val : 6.43326
+Label 1       : mneg
 Label 2       : sneg
-t1Start       : 4.15000
+t1Start       : 3.97500
 t1End         : 4.25000
 t2Start       : 4.22500
 t2End         : 4.25000
-tAvgIndex     : 4.20000
+tAvgIndex     : 4.11250
 
-Iteration     : 9
+Iteration     : 8
 Label         : a
 Average Val   : 10.82408
 RMS Val       : 8.91307
@@ -115,7 +102,7 @@ t2Start       : 4.30000
 t2End         : 4.37500
 tAvgIndex     : 4.31250
 
-Iteration     : 10
+Iteration     : 9
 Label         : k
 Average Val   : 11.63008
 RMS Val       : 10.24611
@@ -128,33 +115,85 @@ t2Start       : 4.57500
 t2End         : 4.77500
 tAvgIndex     : 4.57500
 
-Iteration     : 11
+Iteration     : 10
 Label         : a
-Average Val   : 10.93487
-RMS Val       : 10.45117
-Amplitude Val : 1.05127
+Average Val   : 11.96386
+RMS Val       : 10.61762
+Amplitude Val : 0.29279
 Label 1       : sneg
 Label 2       : mpos
 t1Start       : 4.77500
-t1End         : 5.06050
-t2Start       : 5.06150
-t2End         : 5.35000
-tAvgIndex     : 5.06250
+t1End         : 4.85000
+t2Start       : 4.85000
+t2End         : 4.87500
+tAvgIndex     : 4.82500
+
+Iteration     : 11
+Label         : k
+Average Val   : 9.91009
+RMS Val       : 10.04255
+Amplitude Val : 0.47074
+Label 1       : cons
+Label 2       : sneg
+t1Start       : 4.87500
+t1End         : 4.92500
+t2Start       : 4.90000
+t2End         : 4.92500
+tAvgIndex     : 4.90000
 
 Iteration     : 12
+Label         : a
+Average Val   : 10.05037
+RMS Val       : 10.45575
+Amplitude Val : 1.05127
+Label 1       : spos
+Label 2       : sneg
+t1Start       : 4.92500
+t1End         : 4.97500
+t2Start       : 4.97500
+t2End         : 5.02500
+tAvgIndex     : 4.97500
+
+Iteration     : 13
 Label         : k
-Average Val   : 9.60982
+Average Val   : 9.63372
+RMS Val       : 9.63886
+Amplitude Val : 0.44371
+Label 1       : cons
+Label 2       : cons
+t1Start       : 5.02500
+t1End         : 5.02500
+t2Start       : 5.05000
+t2End         : 5.05000
+tAvgIndex     : 5.03750
+
+Iteration     : 14
+Label         : a
+Average Val   : 9.87221
+RMS Val       : 10.11369
+Amplitude Val : 0.59878
+Label 1       : spos
+Label 2       : sneg
+t1Start       : 5.05000
+t1End         : 5.19800
+t2Start       : 5.19900
+t2End         : 5.35000
+tAvgIndex     : 5.20000
+
+Iteration     : 15
+Label         : k
+Average Val   : 9.43824
 RMS Val       : 10.91991
 Amplitude Val : 2.74205
 Label 1       : spos
 Label 2       : mneg
 t1Start       : 5.35000
 t1End         : 6.00000
-t2Start       : 5.97500
+t2Start       : 5.95000
 t2End         : 6.00000
 tAvgIndex     : 5.67500
 
-Iteration     : 13
+Iteration     : 16
 Label         : a
 Average Val   : 8.73945
 RMS Val       : 9.06436
@@ -167,7 +206,7 @@ t2Start       : 6.02500
 t2End         : 6.07500
 tAvgIndex     : 6.03750
 
-Iteration     : 14
+Iteration     : 17
 Label         : d
 Average Val   : 9.00206
 RMS Val       : 9.17053
@@ -180,7 +219,7 @@ t2Start       : 6.10000
 t2End         : 6.10000
 tAvgIndex     : 6.08750
 
-Iteration     : 15
+Iteration     : 18
 Label         : pc
 Average Val   : 5.84584
 RMS Val       : 8.74349
@@ -193,7 +232,7 @@ t2Start       : 6.20000
 t2End         : 6.27500
 tAvgIndex     : 6.18750
 
-Iteration     : 16
+Iteration     : 19
 Label         : a
 Average Val   : 10.47730
 RMS Val       : 14.08760

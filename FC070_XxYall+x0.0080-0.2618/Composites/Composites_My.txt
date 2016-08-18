@@ -15,7 +15,7 @@ Iteration     : 2
 Label         : k
 Average Val   : -0.10354
 RMS Val       : -0.09282
-Amplitude Val : 0.22395
+Amplitude Val : 0.27673
 Label 1       : cons
 Label 2       : cons
 t1Start       : 0.15000
@@ -25,32 +25,19 @@ t2End         : 3.17500
 tAvgIndex     : 1.66250
 
 Iteration     : 3
-Label         : i
-Average Val   : -0.00138
-RMS Val       : 0.10558
-Amplitude Val : 0.27159
-Label 1       : mpos
-Label 2       : mpos
-t1Start       : 3.17500
-t1End         : 3.17500
-t2Start       : 3.22500
-t2End         : 3.22500
-tAvgIndex     : 3.20000
-
-Iteration     : 4
 Label         : a
-Average Val   : -0.02698
+Average Val   : -0.03732
 RMS Val       : 0.15836
 Amplitude Val : 0.09398
 Label 1       : sneg
 Label 2       : spos
-t1Start       : 3.22500
+t1Start       : 3.17500
 t1End         : 3.57500
 t2Start       : 3.57500
 t2End         : 3.67500
-tAvgIndex     : 3.45000
+tAvgIndex     : 3.42500
 
-Iteration     : 5
+Iteration     : 4
 Label         : c
 Average Val   : 0.15612
 RMS Val       : 0.29004
@@ -63,7 +50,7 @@ t2Start       : 3.70000
 t2End         : 3.75000
 tAvgIndex     : 3.71250
 
-Iteration     : 6
+Iteration     : 5
 Label         : d
 Average Val   : 0.14237
 RMS Val       : 0.26666
@@ -76,7 +63,7 @@ t2Start       : 3.77500
 t2End         : 3.85000
 tAvgIndex     : 3.80000
 
-Iteration     : 7
+Iteration     : 6
 Label         : i
 Average Val   : 0.07969
 RMS Val       : 0.16892
@@ -89,7 +76,7 @@ t2Start       : 3.87500
 t2End         : 3.90000
 tAvgIndex     : 3.87500
 
-Iteration     : 8
+Iteration     : 7
 Label         : a
 Average Val   : 0.08796
 RMS Val       : 0.19858
@@ -102,7 +89,7 @@ t2Start       : 4.00000
 t2End         : 4.05000
 tAvgIndex     : 3.97500
 
-Iteration     : 9
+Iteration     : 8
 Label         : d
 Average Val   : 0.11084
 RMS Val       : 0.18710
@@ -115,7 +102,7 @@ t2Start       : 4.17500
 t2End         : 4.17500
 tAvgIndex     : 4.11250
 
-Iteration     : 10
+Iteration     : 9
 Label         : k
 Average Val   : 0.50724
 RMS Val       : 0.65925
@@ -128,7 +115,7 @@ t2Start       : 4.30000
 t2End         : 4.35000
 tAvgIndex     : 4.26250
 
-Iteration     : 11
+Iteration     : 10
 Label         : a
 Average Val   : 0.62091
 RMS Val       : 0.62827
@@ -141,7 +128,7 @@ t2Start       : 4.40000
 t2End         : 4.42500
 tAvgIndex     : 4.38750
 
-Iteration     : 12
+Iteration     : 11
 Label         : k
 Average Val   : 0.54473
 RMS Val       : 0.63340
@@ -154,7 +141,7 @@ t2Start       : 4.57500
 t2End         : 4.60000
 tAvgIndex     : 4.51250
 
-Iteration     : 13
+Iteration     : 12
 Label         : a
 Average Val   : 0.50389
 RMS Val       : 0.56213
@@ -167,7 +154,7 @@ t2Start       : 4.67500
 t2End         : 4.77500
 tAvgIndex     : 4.68750
 
-Iteration     : 14
+Iteration     : 13
 Label         : k
 Average Val   : 0.47526
 RMS Val       : 0.50934
@@ -180,7 +167,7 @@ t2Start       : 5.02500
 t2End         : 5.07500
 tAvgIndex     : 4.92500
 
-Iteration     : 15
+Iteration     : 14
 Label         : a
 Average Val   : 0.39554
 RMS Val       : 0.44148
@@ -193,7 +180,7 @@ t2Start       : 5.13650
 t2End         : 5.20000
 tAvgIndex     : 5.13750
 
-Iteration     : 16
+Iteration     : 15
 Label         : k
 Average Val   : 0.62722
 RMS Val       : 0.63251
@@ -206,7 +193,7 @@ t2Start       : 5.35000
 t2End         : 5.40000
 tAvgIndex     : 5.30000
 
-Iteration     : 17
+Iteration     : 16
 Label         : a
 Average Val   : 0.56648
 RMS Val       : 0.65900
@@ -219,7 +206,7 @@ t2Start       : 5.42500
 t2End         : 5.67500
 tAvgIndex     : 5.53750
 
-Iteration     : 18
+Iteration     : 17
 Label         : k
 Average Val   : 0.64237
 RMS Val       : 0.61887
@@ -232,7 +219,7 @@ t2Start       : 6.20000
 t2End         : 6.22500
 tAvgIndex     : 5.95000
 
-Iteration     : 19
+Iteration     : 18
 Label         : a
 Average Val   : 0.74410
 RMS Val       : 0.60374
@@ -245,7 +232,7 @@ t2Start       : 6.35000
 t2End         : 6.45000
 tAvgIndex     : 6.33750
 
-Iteration     : 20
+Iteration     : 19
 Label         : k
 Average Val   : 0.78560
 RMS Val       : 0.60625
