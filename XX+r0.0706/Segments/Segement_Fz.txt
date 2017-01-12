@@ -1,0 +1,117 @@
+Iteration : 1
+Average   : -0.92251
+Max Val   : -0.36952
+Min Val   : -1.47551
+Start     : 0.00000
+Finish    : 0.15000
+Gradient  : -7.37326
+Grad Label: sneg  
+
+Iteration : 2
+Average   : -1.50276
+Max Val   : -1.44139
+Min Val   : -1.56413
+Start     : 0.15000
+Finish    : 0.32500
+Gradient  : -0.70136
+Grad Label: cons  
+
+Iteration : 3
+Average   : -1.70004
+Max Val   : -1.58145
+Min Val   : -1.81862
+Start     : 0.32500
+Finish    : 3.07500
+Gradient  : -0.08624
+Grad Label: cons  
+
+Iteration : 4
+Average   : -1.66744
+Max Val   : -1.37561
+Min Val   : -1.95926
+Start     : 3.07500
+Finish    : 3.32500
+Gradient  : 2.33463
+Grad Label: spos  
+
+Iteration : 5
+Average   : 6.62213
+Max Val   : 12.52945
+Min Val   : 0.71480
+Start     : 3.32500
+Finish    : 3.50000
+Gradient  : 67.51233
+Grad Label: bpos  
+
+Iteration : 6
+Average   : 9.17944
+Max Val   : 10.43732
+Min Val   : 7.92156
+Start     : 3.50000
+Finish    : 3.52500
+Gradient  : -100.63053
+Grad Label: nimp  
+
+Iteration : 7
+Average   : 6.66469
+Max Val   : 6.79326
+Min Val   : 6.53612
+Start     : 3.52500
+Finish    : 3.55000
+Gradient  : 10.28589
+Grad Label: spos  
+
+Iteration : 8
+Average   : 6.89279
+Max Val   : 7.77453
+Min Val   : 6.01104
+Start     : 3.55000
+Finish    : 3.57500
+Gradient  : -70.53964
+Grad Label: nimp  
+
+Iteration : 9
+Average   : 1.68916
+Max Val   : 4.61064
+Min Val   : -1.23232
+Start     : 3.57500
+Finish    : 3.72500
+Gradient  : -38.95306
+Grad Label: mneg  
+
+Iteration : 10
+Average   : -1.37040
+Max Val   : -1.05369
+Min Val   : -1.68711
+Start     : 3.72500
+Finish    : 3.90000
+Gradient  : -3.61954
+Grad Label: sneg  
+
+Iteration : 11
+Average   : -1.66320
+Max Val   : -1.64402
+Min Val   : -1.68237
+Start     : 3.90000
+Finish    : 4.05000
+Gradient  : -0.25562
+Grad Label: cons  
+
+Iteration : 12
+Average   : -1.72133
+Max Val   : -1.20896
+Min Val   : -2.23370
+Start     : 4.05000
+Finish    : 4.07500
+Gradient  : 40.98956
+Grad Label: mpos  
+
+Iteration : 13
+Average   : 4.43530
+Max Val   : 10.55140
+Min Val   : -1.68080
+Start     : 4.07500
+Finish    : 4.20500
+Gradient  : 89.41569
+Grad Label: pimp  
+

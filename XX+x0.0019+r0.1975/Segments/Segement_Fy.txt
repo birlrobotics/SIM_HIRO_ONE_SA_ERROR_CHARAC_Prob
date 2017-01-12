@@ -1,0 +1,117 @@
+Iteration : 1
+Average   : -0.08303
+Max Val   : -0.07374
+Min Val   : -0.09232
+Start     : 0.00000
+Finish    : 1.50000
+Gradient  : 0.01239
+Grad Label: cons  
+
+Iteration : 2
+Average   : -0.08963
+Max Val   : -0.07984
+Min Val   : -0.09942
+Start     : 1.50000
+Finish    : 2.70000
+Gradient  : -0.01632
+Grad Label: cons  
+
+Iteration : 3
+Average   : -0.08626
+Max Val   : -0.07008
+Min Val   : -0.10244
+Start     : 2.70000
+Finish    : 3.40000
+Gradient  : -0.04623
+Grad Label: cons  
+
+Iteration : 4
+Average   : -0.34195
+Max Val   : -0.21527
+Min Val   : -0.46863
+Start     : 3.40000
+Finish    : 3.42500
+Gradient  : -10.13445
+Grad Label: sneg  
+
+Iteration : 5
+Average   : -0.60211
+Max Val   : -0.59018
+Min Val   : -0.61405
+Start     : 3.42500
+Finish    : 3.45000
+Gradient  : 0.95478
+Grad Label: cons  
+
+Iteration : 6
+Average   : -0.57918
+Max Val   : -0.53722
+Min Val   : -0.62114
+Start     : 3.45000
+Finish    : 3.47500
+Gradient  : 3.35678
+Grad Label: spos  
+
+Iteration : 7
+Average   : -0.16521
+Max Val   : 0.12847
+Min Val   : -0.45890
+Start     : 3.47500
+Finish    : 3.62500
+Gradient  : 3.91584
+Grad Label: spos  
+
+Iteration : 8
+Average   : 0.02112
+Max Val   : 0.08211
+Min Val   : -0.03986
+Start     : 3.62500
+Finish    : 3.77500
+Gradient  : -0.81311
+Grad Label: cons  
+
+Iteration : 9
+Average   : -0.04286
+Max Val   : -0.03619
+Min Val   : -0.04953
+Start     : 3.77500
+Finish    : 3.95000
+Gradient  : -0.07623
+Grad Label: cons  
+
+Iteration : 10
+Average   : -0.05331
+Max Val   : -0.04500
+Min Val   : -0.06162
+Start     : 3.95000
+Finish    : 4.27500
+Gradient  : -0.05113
+Grad Label: cons  
+
+Iteration : 11
+Average   : -0.11758
+Max Val   : 0.20507
+Min Val   : -0.44023
+Start     : 4.27500
+Finish    : 4.30000
+Gradient  : -25.81191
+Grad Label: mneg  
+
+Iteration : 12
+Average   : -1.47389
+Max Val   : -0.82206
+Min Val   : -2.12571
+Start     : 4.30000
+Finish    : 4.40000
+Gradient  : -13.03644
+Grad Label: sneg  
+
+Iteration : 13
+Average   : -1.85281
+Max Val   : -1.42204
+Min Val   : -2.28358
+Start     : 4.40000
+Finish    : 4.49500
+Gradient  : 8.58681
+Grad Label: spos  
+

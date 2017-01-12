@@ -1,0 +1,117 @@
+Iteration : 1
+Average   : -0.10019
+Max Val   : -0.10004
+Min Val   : -0.10033
+Start     : 0.00000
+Finish    : 0.65000
+Gradient  : -0.00045
+Grad Label: cons  
+
+Iteration : 2
+Average   : -0.11270
+Max Val   : -0.10461
+Min Val   : -0.12079
+Start     : 0.65000
+Finish    : 3.65000
+Gradient  : -0.00539
+Grad Label: cons  
+
+Iteration : 3
+Average   : 0.02408
+Max Val   : 0.13459
+Min Val   : -0.08643
+Start     : 3.65000
+Finish    : 3.75000
+Gradient  : 2.21022
+Grad Label: spos  
+
+Iteration : 4
+Average   : -0.01529
+Max Val   : 0.08154
+Min Val   : -0.11213
+Start     : 3.75000
+Finish    : 3.92500
+Gradient  : -1.10670
+Grad Label: sneg  
+
+Iteration : 5
+Average   : -0.09481
+Max Val   : -0.08891
+Min Val   : -0.10071
+Start     : 3.92500
+Finish    : 3.95000
+Gradient  : 0.47206
+Grad Label: spos  
+
+Iteration : 6
+Average   : -0.07626
+Max Val   : -0.02289
+Min Val   : -0.12963
+Start     : 3.95000
+Finish    : 3.97500
+Gradient  : 4.26970
+Grad Label: mpos  
+
+Iteration : 7
+Average   : 0.02640
+Max Val   : 0.05057
+Min Val   : 0.00223
+Start     : 3.97500
+Finish    : 4.00000
+Gradient  : 1.93369
+Grad Label: spos  
+
+Iteration : 8
+Average   : 0.07883
+Max Val   : 0.10480
+Min Val   : 0.05287
+Start     : 4.00000
+Finish    : 4.02500
+Gradient  : -2.07750
+Grad Label: sneg  
+
+Iteration : 9
+Average   : 0.02409
+Max Val   : 0.03868
+Min Val   : 0.00950
+Start     : 4.02500
+Finish    : 4.05000
+Gradient  : -1.16706
+Grad Label: sneg  
+
+Iteration : 10
+Average   : -0.09361
+Max Val   : -0.02132
+Min Val   : -0.16591
+Start     : 4.05000
+Finish    : 4.25000
+Gradient  : -0.72291
+Grad Label: sneg  
+
+Iteration : 11
+Average   : -0.15845
+Max Val   : -0.10798
+Min Val   : -0.20892
+Start     : 4.25000
+Finish    : 4.27500
+Gradient  : 4.03752
+Grad Label: mpos  
+
+Iteration : 12
+Average   : -0.06870
+Max Val   : 0.03362
+Min Val   : -0.17102
+Start     : 4.27500
+Finish    : 4.30000
+Gradient  : 8.18557
+Grad Label: pimp  
+
+Iteration : 13
+Average   : 0.34343
+Max Val   : 0.58020
+Min Val   : 0.10666
+Start     : 4.30000
+Finish    : 4.41000
+Gradient  : 4.43748
+Grad Label: mpos  
+

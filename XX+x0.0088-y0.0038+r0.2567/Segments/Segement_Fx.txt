@@ -1,0 +1,117 @@
+Iteration : 2
+Average   : 2.13668
+Max Val   : 2.20390
+Min Val   : 2.06946
+Start     : 0.47500
+Finish    : 3.22500
+Gradient  : 0.04889
+Grad Label: cons  
+
+Iteration : 3
+Average   : 2.10274
+Max Val   : 2.24682
+Min Val   : 1.95867
+Start     : 3.22500
+Finish    : 3.25000
+Gradient  : -11.52595
+Grad Label: sneg  
+
+Iteration : 4
+Average   : 1.87477
+Max Val   : 2.04918
+Min Val   : 1.70036
+Start     : 3.25000
+Finish    : 3.32500
+Gradient  : 4.65089
+Grad Label: spos  
+
+Iteration : 5
+Average   : 2.16352
+Max Val   : 2.23348
+Min Val   : 2.09356
+Start     : 3.32500
+Finish    : 3.50000
+Gradient  : 0.79957
+Grad Label: cons  
+
+Iteration : 6
+Average   : 2.23820
+Max Val   : 2.24311
+Min Val   : 2.23329
+Start     : 3.50000
+Finish    : 3.70000
+Gradient  : 0.04908
+Grad Label: cons  
+
+Iteration : 7
+Average   : 2.16780
+Max Val   : 2.75231
+Min Val   : 1.58328
+Start     : 3.70000
+Finish    : 3.72500
+Gradient  : -46.76104
+Grad Label: bneg  
+
+Iteration : 8
+Average   : 1.07906
+Max Val   : 1.36033
+Min Val   : 0.79780
+Start     : 3.72500
+Finish    : 3.75000
+Gradient  : -22.50133
+Grad Label: sneg  
+
+Iteration : 9
+Average   : 0.81351
+Max Val   : 1.07222
+Min Val   : 0.55479
+Start     : 3.75000
+Finish    : 3.80000
+Gradient  : 10.34853
+Grad Label: spos  
+
+Iteration : 10
+Average   : 1.07206
+Max Val   : 1.61067
+Min Val   : 0.53345
+Start     : 3.80000
+Finish    : 3.82500
+Gradient  : -43.08880
+Grad Label: mneg  
+
+Iteration : 11
+Average   : 0.25251
+Max Val   : 0.54487
+Min Val   : -0.03984
+Start     : 3.82500
+Finish    : 3.90000
+Gradient  : 7.79626
+Grad Label: spos  
+
+Iteration : 12
+Average   : -0.31730
+Max Val   : 0.89528
+Min Val   : -1.52988
+Start     : 3.90000
+Finish    : 3.95000
+Gradient  : -48.50324
+Grad Label: bneg  
+
+Iteration : 13
+Average   : -1.29957
+Max Val   : -0.53031
+Min Val   : -2.06884
+Start     : 3.95000
+Finish    : 4.02500
+Gradient  : 20.51362
+Grad Label: spos  
+
+Iteration : 14
+Average   : -1.46639
+Max Val   : -0.21857
+Min Val   : -2.71421
+Start     : 4.02500
+Finish    : 4.07000
+Gradient  : -53.61260
+Grad Label: bneg  
+

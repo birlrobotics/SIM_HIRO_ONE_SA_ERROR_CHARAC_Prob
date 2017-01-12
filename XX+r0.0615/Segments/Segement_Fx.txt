@@ -1,0 +1,45 @@
+Iteration : 1
+Average   : 2.05537
+Max Val   : 2.05809
+Min Val   : 2.05264
+Start     : 0.00000
+Finish    : 0.47500
+Gradient  : 0.01148
+Grad Label: cons  
+
+Iteration : 2
+Average   : 2.13165
+Max Val   : 2.18241
+Min Val   : 2.08090
+Start     : 0.47500
+Finish    : 3.32500
+Gradient  : 0.03562
+Grad Label: cons  
+
+Iteration : 3
+Average   : 1.65924
+Max Val   : 1.99319
+Min Val   : 1.32530
+Start     : 3.32500
+Finish    : 3.35000
+Gradient  : -26.71556
+Grad Label: mneg  
+
+Iteration : 4
+Average   : 0.86099
+Max Val   : 1.51863
+Min Val   : 0.20336
+Start     : 3.35000
+Finish    : 3.37500
+Gradient  : -52.61096
+Grad Label: bneg  
+
+Iteration : 5
+Average   : -1.46588
+Max Val   : 0.92311
+Min Val   : -3.85487
+Start     : 3.37500
+Finish    : 3.42000
+Gradient  : -98.49619
+Grad Label: nimp  
+

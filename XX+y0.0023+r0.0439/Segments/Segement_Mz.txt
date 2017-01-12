@@ -1,0 +1,36 @@
+Iteration : 1
+Average   : 0.00258
+Max Val   : 0.00466
+Min Val   : 0.00050
+Start     : 0.00000
+Finish    : 3.32500
+Gradient  : -0.00125
+Grad Label: cons  
+
+Iteration : 2
+Average   : -0.00578
+Max Val   : -0.00212
+Min Val   : -0.00944
+Start     : 3.32500
+Finish    : 3.35000
+Gradient  : -0.29287
+Grad Label: sneg  
+
+Iteration : 3
+Average   : -0.01425
+Max Val   : -0.00523
+Min Val   : -0.02326
+Start     : 3.35000
+Finish    : 3.37500
+Gradient  : 0.72133
+Grad Label: spos  
+
+Iteration : 4
+Average   : 0.00994
+Max Val   : 0.02799
+Min Val   : -0.00812
+Start     : 3.37500
+Finish    : 3.40000
+Gradient  : 1.34723
+Grad Label: spos  
+
